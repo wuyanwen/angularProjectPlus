@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  
+  // $("button").click(function(){
+  //   alert("jquery可以使用了");
+  // });
 }
